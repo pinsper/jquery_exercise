@@ -1,8 +1,5 @@
 $(document).ready(function(){
 
-	// $('.quotes p').addClass('highlighted');
-
-	// 
 
 	$('#changePictureBtn').click(function(){
 		$('.avatar').attr('src', 'img/harry.jpg');
