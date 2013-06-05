@@ -42,9 +42,16 @@ Level 3
 4. Make a something happen every two seconds
 
 
+
 Level 4
 -------
 1. Make a chain of 10 actions on a single selector
 2. Create a text input where you can replace the h1 title of the page
 3. Use a callback function
 4. Add a Google map to the page using the Google Maps JavaScript API
+
+
+
+Incredible Cray Cray Ultimate Bonus
+-----------------------------------
+Draw a dog using the HTML5 canvas element
